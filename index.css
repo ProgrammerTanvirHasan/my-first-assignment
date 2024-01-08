@@ -102,3 +102,17 @@
     margin-left: 15px;
     }
   /* six part close  /////////////*/
+  .last{
+   width: 1300px;
+   height: 680px;
+   text-align: center;
+   background-color:rgb(245, 197, 181);
+  }
+  .subscribe{
+    padding: 200px;
+  }
+  .subbaton{
+    background-color: red;
+     }
+     /* main part end ////////////*/
+  
