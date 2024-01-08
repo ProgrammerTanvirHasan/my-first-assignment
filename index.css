@@ -77,3 +77,17 @@
     color: #ff0000;
  }
  /* forth part close////////////////// */
+ .section{
+    display: flex;
+    width: 1300px;
+    height: 460px;
+    margin-left: 10px;
+ }
+.two{
+  box-sizing: border-box;
+  border-radius: 50%;
+  padding: 10px;
+  border: 10px solid red;
+ margin-right: 90px;
+}
+/* fifth part close////////////////////////////*/
