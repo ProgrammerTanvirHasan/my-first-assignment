@@ -1,6 +1,7 @@
 .happy{
     text-align: center;
     background-image: url(Banner\ Image.png);
+    
     width: 1300px;
     height: 600px;
     border-radius: 10px;
@@ -90,4 +91,14 @@
   border: 10px solid red;
  margin-right: 90px;
 }
+.red{
+    color: #ff0000;
+}
 /* fifth part close////////////////////////////*/
+
+    .gift{
+       width: 1300px; 
+      height: 1150px;
+    margin-left: 15px;
+    }
+  /* six part close  /////////////*/
