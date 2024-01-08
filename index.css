@@ -1,0 +1,59 @@
+.happy{
+    text-align: center;
+    background-image: url(Banner\ Image.png);
+    width: 1300px;
+    height: 600px;
+    border-radius: 10px;
+    margin: 15px auto;
+
+    }
+.party{
+        padding: 50px;
+        font-size: 50px;
+        margin-left: 90px;
+        color:#fff ;
+        font-weight: 900px;
+    }
+    /* hadding part end///////////////////////// */
+    .off{
+        text-align: center;
+        padding-top: 60px;
+        color: rgb(253, 2, 2);
+    }
+    .holi{
+        text-align: center;
+        padding: 10px;
+    }
+    .better{
+        color:rgb(214, 9, 9);
+    }
+.img{
+    text-align: center;
+}
+/* 2nd part end//////////////////////// */
+
+
+
+.five{
+    display: flex;
+    background-image: url(Vectorrr.png);
+    margin: 50px 15px 30px 15px;
+    border-radius: 10px;
+    width: 1300px;
+    height: 600px;
+    color: #fff;
+}
+.six{
+   padding-top: 100px;
+   margin-left: 100px;
+}
+.img{
+    padding: 40px;
+    margin-right: 50px;
+}
+.baton{
+    margin-left: 130px;
+    border-radius: 5px;
+    color:white;
+    }
+    /* 3rd part end /////////////////////*/
