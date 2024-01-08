@@ -4,7 +4,7 @@
     width: 1300px;
     height: 600px;
     border-radius: 10px;
-    margin: 15px auto;
+   margin-left: 10px;
 
     }
 .party{
@@ -57,3 +57,23 @@
     color:white;
     }
     /* 3rd part end /////////////////////*/
+  .schedule{
+    width: 1300px;
+    height: 480px;
+    margin-left: 10px;
+    
+    
+  }
+  .text{
+    text-align: center;
+    padding: 100px;
+    background-color: rgb(241, 207, 194);
+    border-radius: 15px;
+  }
+ .join{
+   background-color:#ff0000 ;
+ }
+ .place{
+    color: #ff0000;
+ }
+ /* forth part close////////////////// */
