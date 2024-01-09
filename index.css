@@ -1,12 +1,24 @@
+*{
+  margin:0px
+    
+}
+
+
+
 .happy{
     text-align: center;
     background-image: url(Banner\ Image.png);
     
-    width: 1300px;
+    width: 1320px;
     height: 600px;
     border-radius: 10px;
-   margin-left: 10px;
+   margin-left: 35px;
 
+    }
+    .steptwo{
+      width: 800px;
+      height: 800px;
+      margin-left: 35px;
     }
 .party{
         padding: 50px;
@@ -38,9 +50,9 @@
 .five{
     display: flex;
     background-image: url(Vectorrr.png);
-    margin: 50px 15px 30px 15px;
+    margin-left: 35px;
     border-radius: 10px;
-    width: 1300px;
+    width: 1320px;
     height: 600px;
     color: #fff;
 }
@@ -59,12 +71,20 @@
     }
     /* 3rd part end /////////////////////*/
   .schedule{
-    width: 1300px;
+    width: 1320px;
     height: 480px;
-    margin-left: 10px;
+    margin-left: 35px;
+    box-sizing: border-box;
+    border-radius: 10px;
     
     
   }
+.items{
+  width: 1320px;
+  height: 1160px;
+  margin-left: 35px;
+}
+
   .text{
     text-align: center;
     padding: 100px;
@@ -82,7 +102,7 @@
     display: flex;
     width: 1300px;
     height: 460px;
-    margin-left: 10px;
+    margin-left: 35px;
  }
 .two{
   box-sizing: border-box;
@@ -99,14 +119,16 @@
     .gift{
        width: 1300px; 
       height: 1150px;
-    margin-left: 15px;
+    margin-left: 35px;
     }
   /* six part close  /////////////*/
   .last{
-   width: 1300px;
-   height: 680px;
+    margin-left: 35px;
+   width: 1320px;
+   height: 610px;
    text-align: center;
    background-color:rgb(245, 197, 181);
+   
   }
   .subscribe{
     padding: 200px;
@@ -115,4 +137,21 @@
     background-color: red;
      }
      /* main part end ////////////*/
+  .foot{
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    padding: 100px;
+  }
+  .icon{
+    text-align: center;
+  }
+  .reserve{
+    justify-content: space-between;
+  }
+  .footer{
+    background-color: black;
+  width: 1400px;
+  height: 610px;
   
+  }
